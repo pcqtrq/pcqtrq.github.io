@@ -24,9 +24,9 @@ function multiply(num1, num2) {
   }
   console.log(multiply(2, 3)); // Output: 6
 
-  document.querySelector("html").addEventListener("click", function () {
-    alert("别戳我，我怕疼。");
-  });
+  // document.querySelector("html").addEventListener("click", function () {
+  //   alert("别戳我，我怕疼。");
+  // });
 //   document.querySelector("html").addEventListener("click", () => {
 //     alert("别戳我，我怕疼。");
 //   });
